@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/OlehSolomka/goit-js-hw-11-color-switch/issues"
   },
-  "homepage": "https://github.com/OlehSolomka.github.io/goit-js-hw-11-color-switch",
+  "homepage": "https://OlehSolomka.github.io/goit-js-hw-11-color-switch",
   "devDependencies": {
     "parcel": "^2.0.0",
     "parcel-plugin-handlebars-precompile": "^1.0.2"
