@@ -24,6 +24,7 @@ function onClickColorChangeStart() {
   if (themeChangerActive) {
     return;
   }
+  themeChangerActive = true;
   intId = setInterval(addRandomColor, 2000, 0, colors.length - 1);
 }
 function onClickColorChangeStop() {
